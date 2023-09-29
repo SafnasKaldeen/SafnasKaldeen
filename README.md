@@ -22,7 +22,6 @@
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 with a strong foundation in building robust and database intensive 𝖜𝖊𝖇 𝖆𝖕𝖕𝖑𝖎𝖈𝖆𝖙𝖎𝖔𝖓𝖘 and 𝖉𝖆𝖙𝖆 𝖒𝖔𝖉𝖊𝖑𝖘s. I've had the opportunity to work on some projects and startups that have honed my skills in both software development and data analysis. I believe I am quick Learner as well
 
