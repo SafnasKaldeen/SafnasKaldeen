@@ -51,6 +51,10 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
   <img alt="Git" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GCP" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img alt="AWS" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img alt="anaconda" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+    <img alt="airflow" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+    <img alt="Nifi" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+    <img alt="kafka" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 </div>
 
 
