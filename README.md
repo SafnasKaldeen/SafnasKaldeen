@@ -50,7 +50,7 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
   <img alt="Figma" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Git" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GCP" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img alt="AWS" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="AWS" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
 
 
