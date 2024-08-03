@@ -38,7 +38,7 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
   <img alt="FastAPI" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img alt="Express" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Bootstrap" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Tailwind" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="Tailwind" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="React" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Astro" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
   <img alt="NextJS" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
