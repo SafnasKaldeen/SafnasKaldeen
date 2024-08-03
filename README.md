@@ -27,18 +27,6 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
 
 ---
 
-<style>
-  .tools-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding-bottom: 20px; /* Adjust padding as needed */
-  }
-  .tools-container img {
-    margin: 10px; /* Adjust margin as needed */
-  }
-</style>
-
 ### 🧰 Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; padding-bottom: 20px;">
