@@ -57,11 +57,9 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
   <img alt="MySQL" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="MongoDB" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="React Native" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Expo" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
   <img alt="VS Code" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Insomnia" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
   <img alt="Figma" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="MidJourney" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/midjourney/midjourney-original.svg" />
   <img alt="Git" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="GCP" width="30px" style="padding-right:20px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
