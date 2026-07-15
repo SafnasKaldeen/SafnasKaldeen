@@ -1,4 +1,4 @@
-<a href="https://github.com/SafnasKaldeen">
+[<a href="https://github.com/SafnasKaldeen">
     <h1 align="center">👨🏼‍💻 SafnasKaldeen</h1></a>
 
 <p align="center">
@@ -62,3 +62,4 @@ I'm Safnas Kaldeen, a passionate 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞�
 
 
 <br />
+](https://github.com/SafnasKaldeen/SafnasKaldeen/blob/main/README.md?plain=1)
